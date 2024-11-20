@@ -179,7 +179,7 @@ footer{
 }
 
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
     h1{
         font-size: 3.5rem;
     }
