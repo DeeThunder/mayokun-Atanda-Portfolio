@@ -180,13 +180,13 @@ footer{
 
 @media (max-width: 1200px) {
 h1{
-    font-size: 2.5rem;
+    font-size: 3.0rem;
 }
 h2{
     font-size: 1.2rem;
 }
 p{
-    font-size: 0.8rem;
+    font-size: 1.0rem;
 }
 .about{
     p.text{ 
