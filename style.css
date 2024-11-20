@@ -18,6 +18,14 @@ h2{
 p{
     font-size: 1.2rem;
 }
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
 .about{
     height: 270px;
     text-align: center;
@@ -170,13 +178,6 @@ footer{
     }
 }
 
-.flex{
-    display: flex;
-}
-
-.flex-col{
-    flex-direction: column;
-}
 
 @media (max-width: 1200px) {
     h1{
