@@ -80,12 +80,14 @@ p{
 .my{
     display: flex;
     flex-direction: row;
+    /* width: 50%; */
     margin-left: auto;
     margin-right: auto;
     justify-items: space-around;
     text-align: justify;
     padding-left: 1.7rem;
 }
+
 .it{
     display: flex;
     flex-direction: column;
